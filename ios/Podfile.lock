@@ -34,7 +34,7 @@ PODS:
     - ExpoModulesCore
   - ExpoFileSystem (18.1.10):
     - ExpoModulesCore
-  - ExpoFont (13.3.1):
+  - ExpoFont (13.3.2):
     - ExpoModulesCore
   - ExpoHead (5.1.1):
     - ExpoModulesCore
@@ -2110,7 +2110,7 @@ SPEC CHECKSUMS:
   Expo: d8192e2b8d8df04a44affce7e908137a892933d1
   ExpoAsset: 3bc9adb7dbbf27ae82c18ca97eb988a3ae7e73b1
   ExpoFileSystem: c36eb8155eb2381c83dda7dc210e3eec332368b6
-  ExpoFont: abbb91a911eb961652c2b0a22eef801860425ed6
+  ExpoFont: cf508bc2e6b70871e05386d71cab927c8524cc8e
   ExpoHead: 5fa9071821209796843730542d666f625fa36f87
   ExpoKeepAwake: bf0811570c8da182bfb879169437d4de298376e7
   ExpoLinking: b85ff4eafeae6fc638c6cace60007ae521af0ef4
